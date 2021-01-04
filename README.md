@@ -1,7 +1,7 @@
 # Movie-Recommender-System
 UAS Matkul Sistem Penunjang Keputusan - MATRIX FACTORIZATIONS
-Nama : JOKO SUSANTO
-NIM  : 171011402097
+# Nama : JOKO SUSANTO
+# NIM  : 171011402097
 
 # Movie-Recommender-System
 A Web Base user-item Movie Recommendation Engine menggunakan Pemfilteran Kolaboratif Dengan algoritma matrix factorizations dan
