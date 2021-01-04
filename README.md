@@ -86,10 +86,6 @@ To run
 ```
 python manage.py runserver
 ```
-Now open your browser and go to this address
-```
-http://127.0.0.1:8000
-```
 Sekarang buka browsermu dan pergi ke alamat berikut
 ```
 http://127.0.0.1:8000
